@@ -27,7 +27,7 @@ HOW TO RUN:
 
  1. Clone this repository in your local folder
   ```
-  git clone "https://github.com/meetgandhii/Rent-Roll".
+  git clone "https://github.com/hrishikasamani/Rent-and-Roll".
   ```
  2. open terminal and cd into Client folder
  ```
